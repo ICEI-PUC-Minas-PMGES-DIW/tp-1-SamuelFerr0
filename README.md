@@ -9,7 +9,7 @@ Coloque aqui os seus dados
 ## Tela de inspeção com navegador
 
 ![testes de inspeção de conexão](images/navegador.png)
-![resultado index](images/image.png)
+![resultado index](images/image.png) 
 
 
 ## Orientações sobre Linguagem MarkDown
