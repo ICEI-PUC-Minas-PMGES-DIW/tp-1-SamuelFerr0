@@ -3,12 +3,13 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Samuel Ferreira Guimarães
+- Matricula: 926778
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![testes de inspeção de conexão](images/navegador.png)
+![resultado index](images/image.png)
 
 
 ## Orientações sobre Linguagem MarkDown
